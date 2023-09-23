@@ -1,6 +1,15 @@
 #include <iostream>  
-using namespace std;  
+using namespace std; 
+
+int myintvar = 345;
+float myfloatvar = 50.89;
+char mycharvar = 'P';
+string mySentence = "ENTC";
+int yourint;
+float yourPerc;
+char yourchar;
+string yourstring;
+
 int main() {  
-   cout << "Hello C++ Programming";  
-   return 0;  
-}  
+   
+ 
