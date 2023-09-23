@@ -11,7 +11,7 @@ char yourchar;
 string yourstring;
 
 int main() {  
-     cout<<"my integer variable is" << myintvar <<"\n";
+     cout<<"my integer variable is " << myintvar <<"\n";
     cout<<"My float variable is " << myfloatvar <<"\n";
     cout<<"My character variable is " << mycharvar <<"\n";
     cout<<"Size of that character is " << sizeof(mycharvar) <<"\n";
@@ -21,7 +21,7 @@ int main() {
     cout<<"Name an integer value: ";
     cin>>yourint;
     cout<<"float value: ";
-    cin>>yourPerc;
+    cin>>yourfloat;
     cout<<"Name a character: ";
     cin>>yourchar;
     cout<<"Write a string: ";
